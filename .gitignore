@@ -1,0 +1,36 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.mypy_cache/
+
+chess_env/
+.venv/
+venv/
+
+*.pt
+!models/chess_policy_value_model_best.pt
+
+analysis_outputs/
+matches/analysis_outputs/
+
+*.pgn
+
+*.log
+raw_experiment_log.txt
+
+# Local thesis hand-off notes and third-party reference material
+report_handoff/
+bitirme görsel/
+bitirme*/
+tools/thesis/
+
+# Local secrets and API credentials
+.env
+.env.*
+!.env.example
+lichess_api
+lichess_api.*
+lichess_api/
+*lichess*api*

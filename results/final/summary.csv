@@ -1,0 +1,40 @@
+experiment,start_position,matchup,games,first_bot_wins,second_bot_wins,draws,first_bot_score_rate,average_plies
+standard_start,Initial position,CNN+MCTS vs Random,100,98,0,2,0.99,78.1
+standard_start,Initial position,Vanilla MCTS vs Random,100,32,7,61,0.625,326.1
+standard_start,Initial position,CNN+MCTS vs Vanilla MCTS,100,97,0,3,0.985,116.2
+opening_positions,A10: English Opening,CNN+MCTS vs Random,20,20,0,0,1.0,81.2
+opening_positions,A10: English Opening,Vanilla MCTS vs Random,20,8,0,12,0.7,313.85
+opening_positions,A10: English Opening,CNN+MCTS vs Vanilla MCTS,20,20,0,0,1.0,99.0
+opening_positions,D06: Queen's Gambit,CNN+MCTS vs Random,20,20,0,0,1.0,91.6
+opening_positions,D06: Queen's Gambit,Vanilla MCTS vs Random,20,6,2,12,0.6,310.05
+opening_positions,D06: Queen's Gambit,CNN+MCTS vs Vanilla MCTS,20,18,0,2,0.95,135.9
+opening_positions,A46: Queen's Pawn Game,CNN+MCTS vs Random,20,20,0,0,1.0,94.3
+opening_positions,A46: Queen's Pawn Game,Vanilla MCTS vs Random,20,6,1,13,0.625,313.5
+opening_positions,A46: Queen's Pawn Game,CNN+MCTS vs Vanilla MCTS,20,19,0,1,0.975,104.65
+opening_positions,E00: Queen's Pawn Game,CNN+MCTS vs Random,20,20,0,0,1.0,82.9
+opening_positions,E00: Queen's Pawn Game,Vanilla MCTS vs Random,20,6,4,10,0.55,295.15
+opening_positions,E00: Queen's Pawn Game,CNN+MCTS vs Vanilla MCTS,20,20,0,0,1.0,121.8
+opening_positions,E61: King's Indian Defence,CNN+MCTS vs Random,20,19,0,1,0.975,79.2
+opening_positions,E61: King's Indian Defence,Vanilla MCTS vs Random,20,6,3,11,0.575,277.35
+opening_positions,E61: King's Indian Defence,CNN+MCTS vs Vanilla MCTS,20,19,0,1,0.975,116.2
+opening_positions,C00: French Defence,CNN+MCTS vs Random,20,20,0,0,1.0,74.0
+opening_positions,C00: French Defence,Vanilla MCTS vs Random,20,6,3,11,0.575,300.6
+opening_positions,C00: French Defence,CNN+MCTS vs Vanilla MCTS,20,20,0,0,1.0,124.7
+opening_positions,B50: Sicilian Defence,CNN+MCTS vs Random,20,20,0,0,1.0,83.1
+opening_positions,B50: Sicilian Defence,Vanilla MCTS vs Random,20,7,2,11,0.625,305.85
+opening_positions,B50: Sicilian Defence,CNN+MCTS vs Vanilla MCTS,20,20,0,0,1.0,123.2
+opening_positions,B30: Sicilian Defence,CNN+MCTS vs Random,20,19,0,1,0.975,74.6
+opening_positions,B30: Sicilian Defence,Vanilla MCTS vs Random,20,3,2,15,0.525,371.1
+opening_positions,B30: Sicilian Defence,CNN+MCTS vs Vanilla MCTS,20,20,0,0,1.0,90.0
+opening_positions,B40: Sicilian Defence,CNN+MCTS vs Random,20,20,0,0,1.0,94.4
+opening_positions,B40: Sicilian Defence,Vanilla MCTS vs Random,20,6,4,10,0.55,256.65
+opening_positions,B40: Sicilian Defence,CNN+MCTS vs Vanilla MCTS,20,18,0,2,0.95,118.55
+opening_positions,C60: Ruy Lopez,CNN+MCTS vs Random,20,20,0,0,1.0,78.5
+opening_positions,C60: Ruy Lopez,Vanilla MCTS vs Random,20,7,1,12,0.65,351.3
+opening_positions,C60: Ruy Lopez,CNN+MCTS vs Vanilla MCTS,20,20,0,0,1.0,68.9
+opening_positions,B10: Caro-Kann Defence,CNN+MCTS vs Random,20,19,0,1,0.975,88.2
+opening_positions,B10: Caro-Kann Defence,Vanilla MCTS vs Random,20,6,1,13,0.625,338.25
+opening_positions,B10: Caro-Kann Defence,CNN+MCTS vs Vanilla MCTS,20,19,0,1,0.975,112.65
+opening_positions,A05: Reti Opening,CNN+MCTS vs Random,20,19,0,1,0.975,97.3
+opening_positions,A05: Reti Opening,Vanilla MCTS vs Random,20,7,2,11,0.625,299.35
+opening_positions,A05: Reti Opening,CNN+MCTS vs Vanilla MCTS,20,20,0,0,1.0,97.0
